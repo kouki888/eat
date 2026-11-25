@@ -1,1 +1,1 @@
-page_modules/home.py
+streamlit>=1.40,<2
